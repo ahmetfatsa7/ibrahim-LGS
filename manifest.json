@@ -1,0 +1,17 @@
+{
+  "name": "İbrahim · LGS 2027",
+  "short_name": "LGS Takip",
+  "description": "Konu takibi, aralıklı tekrar, yanlış defteri, deneme ve net tahmini",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F151C",
+  "theme_color": "#0F151C",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
